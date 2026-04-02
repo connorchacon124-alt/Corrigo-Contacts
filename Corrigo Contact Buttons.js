@@ -8,8 +8,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @connect      api.github.com
-// @updateURL    https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Corrigo-Contacts/main/corrigo-contact-buttons.user.js
-// @downloadURL  https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Corrigo-Contacts/main/corrigo-contact-buttons.user.js
+// @updateURL    https://raw.githubusercontent.com/connorchacon124-alt/Corrigo-Contacts/main/corrigo-contact-buttons.user.js
+// @downloadURL  https://raw.githubusercontent.com/connorchacon124-alt/Corrigo-Contacts/main/corrigo-contact-buttons.user.js
 // ==/UserScript==
 
 (function () {
