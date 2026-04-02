@@ -18,7 +18,7 @@
     // ─────────────────────────────────────────────────────────────────────────
     // CONFIGURATION — paste your values here
     // ─────────────────────────────────────────────────────────────────────────
-    const GITHUB_TOKEN = 'YOUR_NEW_GITHUB_TOKEN'; // ← paste your regenerated token here
+    const GITHUB_TOKEN = 'GITHUB_ACCESS_TOKEN'; // ← paste your regenerated token here
     const GIST_ID      = 'YOUR_GIST_ID';          // ← the hash from the Gist URL
     const FILENAME     = 'building-data.js';
     const CACHE_KEY    = 'corrigo_building_data';
